@@ -2,5 +2,23 @@
   "dependencies": {
     "@fwfy/futil": "^1.0.1",
     "ws": "^8.16.0"
-  }
+  },
+  "name": "soup",
+  "version": "1.0.0",
+  "description": "Simple and fast websocket-based private screenshot uploading service.",
+  "main": "soupsrv.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fwfy/soup.git"
+  },
+  "author": "fwfy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fwfy/soup/issues"
+  },
+  "homepage": "https://github.com/fwfy/soup#readme"
 }
